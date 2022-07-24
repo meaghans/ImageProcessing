@@ -1,4 +1,2 @@
 # Image Processing
-This is my repo containing my work for Project 2 of COP3503.
-
-Second project for COP 3503, a second-sequence introductory computer science course in C++ at the University of Florida.
+Read in .TGA files in a binary format, process the image data within those files in various ways, write out new .TGA files in the same binary format. Processing images by loading, storing, and writing them back out as well as performing additional operations such as scaling, rotating, adjusting parts (or all) of the image color, etc.
